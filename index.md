@@ -1,7 +1,8 @@
 
-> Wir bieten Ihnen ein breites baugeologisches Leistungsspektrum
+![Banner](/banner-image.jpeg)
 
 # Herzlich willkommen bei Messerer Baugeologie
+
 
 Seit 1995 erstellt unser geotechnisches Büro Baugrundgutachten. Unser Radius ist überregional, unser Schwerpunkt ist Mittelfranken.  
 
@@ -16,5 +17,7 @@ Mit DIN-gerechten Lösungen zur optimalen Handhabung geotechnischer Anforderunge
 Im Leistungsspektrum finden Sie eine Übersicht unserer gesamten Leistungen. 
 
  
+** Wir bieten Ihnen ein breites baugeologisches Leistungsspektrum **
+
 
 Wir freuen uns auf Ihre Anfrage!
