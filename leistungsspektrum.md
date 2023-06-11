@@ -41,15 +41,6 @@
   - Dynamische Plattendruckversuche (TP BF-StB Teil B8.3)
   - Eignungsprüfung von Baustoffen
 
- 
-
- 
-
- 
-
- 
-
-  
 
  Unsere Arbeit sichert Ihre Investition ab und schafft die Voraussetzungen für
 die optimale Handhabung der geotechnischen Anforderungen.

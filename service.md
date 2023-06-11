@@ -15,4 +15,4 @@ Wir erarbeiten projektgerechte Empfehlungen auf geowissenschaftlicher Basis.
 
 Als Voraussetzung effektiver Planung und wirtschaftlicher Kalkulation Ihres Bauwerks liefern unsere baugeologischen Messungen und Untersuchungen maßgebliche Grundlagen.
 
-![](4972233792_64be3836fc_n.jpg)
+![](/assets/images/4972233792_64be3836fc_n.jpg)

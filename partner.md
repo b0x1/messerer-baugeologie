@@ -13,4 +13,4 @@ Hier eine kleine Auswahl unserer typischen Kunden:
 - Ausführende Bauwirtschaft im Hoch-, Tief, Grund- und Erd- sowie Garten- und Landschaftsbau
 - Industrieunternehmen
 
-![Keller](Keller_nass.jpeg)
+![Keller](/assets/images/Keller_nass.jpeg)

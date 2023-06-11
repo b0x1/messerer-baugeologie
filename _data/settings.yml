@@ -1,0 +1,21 @@
+menu: 
+  - name: Home
+    link: /
+  - name: Leistungsspektrum
+    link: /leistungsspektrum
+  - name: Partner
+    link: /partner
+  - name: Service
+    link: /service
+  # - name: Submenu
+  #   submenu:
+  #     - name: GitHub
+  #       icon: github
+  #       link: http://github.com/alainpham
+  #     - name: LinkedIn
+  #       icon: linkedin-square
+  #       link: http://www.linkedin.com/in/alainpham
+  #     - name: Twitter
+  #       icon: twitter
+  #       link: https://twitter.com/koint
+    

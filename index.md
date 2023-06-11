@@ -1,6 +1,4 @@
 
-![Banner](/banner-image.jpeg)
-
 # Herzlich willkommen bei Messerer Baugeologie
 
 
